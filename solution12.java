@@ -42,5 +42,5 @@ public class solution12
             System.out.println(missedEles[k]);
         }
     }
-    
 }
+
